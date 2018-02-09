@@ -1,6 +1,8 @@
 pages/**/*.js
 src/**/*.js
 
+out
+
 # Logs
 logs
 *.log
